@@ -6,7 +6,7 @@ Task 1: Provision the lab environment
 ![lab08 (1)](https://user-images.githubusercontent.com/95598307/225375371-9e30e4a3-0c2d-475c-8e37-c630bf8073e3.png)
 
 Task 2: Configure the hub and spoke network topology
-To complate this this task, we should create network manager group for spoke group (vnet2 and vnet3 ) and arrange the connectivity between hub (vnet1 )
+To complate this task, we should create network manager group for spoke group (vnet2 and vnet3 ) and arrange the connectivity between hub (vnet1 )
 
 ![network manager](https://user-images.githubusercontent.com/95598307/225377087-34e54080-d299-456a-9d47-723a1cac441f.png)
 ![vnetgateway](https://user-images.githubusercontent.com/95598307/225377161-1a8c6a81-2a97-4f8d-b275-0fea381c05ee.png)
