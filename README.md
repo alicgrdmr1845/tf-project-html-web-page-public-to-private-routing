@@ -27,7 +27,7 @@ Also you can find this tasks in terraform file with more details
 
 ![terraform project view](https://user-images.githubusercontent.com/95598307/225378215-1d2b37c1-b02b-4f3f-b75f-ee8b6f11b769.png)
 
-Lastly you can check the connection with application gateway public ip. As you know application gateway is working with layer 7 so it will work with url based routing. We connected application gateway with image pool.
+Lastly you can check the connection with application gateway public ip. As you know application gateway is working with layer 7 so it will work with url based routing. We connected to application gateway with image pool.
 
 ![connecting image server with app gateway](https://user-images.githubusercontent.com/95598307/225378594-201249be-550a-4eb1-8a94-3da0143c6ef7.png)
 
