@@ -1,4 +1,4 @@
-##Testing managing network traffic targeting Azure virtual machines in the hub and spoke network topology with using app gateway & load balancer for traffic routing.
+## Testing managing network traffic targeting Azure virtual machines in the hub and spoke network topology with using app gateway & load balancer for traffic routing.
 This project is done with using both terraform and azure portal.Since the files are too big, they are pushed to github with lfs (large file storage) push.
 
 Task 1: Provision the lab environment
