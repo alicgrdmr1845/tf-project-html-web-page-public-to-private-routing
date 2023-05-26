@@ -1,4 +1,4 @@
-## Testing and managing network traffic targeting Azure virtual machines in the hub and spoke network topology with using app gateway & load balancer for traffic routing.
+## Testing and managing network traffic, targeting Azure virtual machines in the hub and spoke network topology with using app gateway & load balancer for traffic routing.
 
 Task 1: Provision the lab environment
 
